@@ -1,7 +1,7 @@
 
 # Raspberry Pi Pico W Pythonprojekt🚀
 
-Eine einfache, drei-Tastenbasierte UI auf einem Raspberry Pi Pico W mit mehreren Funktionen.
+Eine einfache, drei-tastenbasierte UI auf einem Raspberry Pi Pico W mit mehreren Funktionen.
 
 
 
